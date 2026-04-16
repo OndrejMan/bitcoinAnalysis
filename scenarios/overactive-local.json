@@ -1,6 +1,6 @@
 {
   "name": "overactive-local",
-  "rounds": 50,
+  "rounds": 1,
   "blocks": 0,
   "default_version": "2.6.0",
   "wallets": [
